@@ -1,2 +1,3 @@
-# SistemasEmbarcados
-Repositório voltado para a disciplina de Sistemas Embarcados
+# Sistemas Embarcados
+
+Repositório voltado para a disciplina de Sistemas Embarcados.
